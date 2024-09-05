@@ -49,7 +49,6 @@
   </a>
 </div>
 
-<p>psst i havent set these up yet</p>
 
 <h2>Bye!👋 Hope to see you again soon!</h2>
 
