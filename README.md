@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ody and I'm a A student studying IT, from Greece, But living in Norway, Oslo</p>
+<p align="left">My name is Ody and I'm a A student studying IT trying to get an internship, Im originally from Greece but i live in Norway, Oslo</p>
 
 
 <h2 align="left">About me</h2>
