@@ -8,7 +8,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">✨ What i do for fun: I do a bunch of diffrent martial arts and sports like Judo, Muay thai, Submission grappling and i play basketball, 
-                  i also play videogames.<br>📚 I'm currently learning C# and C++ on my free time <br>🎯 Goals: Hopefully get an Intership<br></p>
+                  i also play videogames.<br>📚 I'm currently learning C# and C++ on my free time <br>🎯 Goals: Hopefully get a apprenticeship and learn new coding languages!<br></p>
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/930436490141741511/2F8FCCFBA3A41009725F13C33E9D028E3EF61FE9/?imw=450&impolicy=Letterbox"  />
 
 ###
